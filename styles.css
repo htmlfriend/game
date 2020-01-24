@@ -75,7 +75,7 @@ body {
   font-weight: inherit;
   line-height: 1.4;
   color: #000000;
-  background: #fff none;
+  background: #fff;
   border: 1px solid #3f3f3f;
   border-radius: 5px;
 }
@@ -86,7 +86,7 @@ body {
   align-items: center;
   justify-content: center;
   border: 1px solid rgb(11, 20, 24);
-  background: #ffffff;
+  background: #d1e6e5;
   flex: 0 0 300px;
   height: 300px;
 }
